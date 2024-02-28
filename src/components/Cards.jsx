@@ -49,8 +49,8 @@ function Cards() {
       </div>
     </div>
 
-    <div className='card w-[10vw] h-[8vh] bg-orange-400 mx-6 mt-6 rounded-r-xl'>
-      <h1 className='text-white text-xl py-3 px-7'>Best Choice</h1>
+    <div className='card w-[3.4vw] border-zinc-200 border-2  mx-6 mt-6 rounded-full'>
+      <h1 className='text-zinc-600 text-xl py-3 px-5'>3</h1>
     </div>
     <div className="main flex justify-evenly">
       <div className="img w-[12vw] ml-12 mt-16 ">
@@ -72,8 +72,8 @@ function Cards() {
       </div>
     </div>
 
-    <div className='card w-[10vw] h-[8vh] bg-orange-400 mx-6 mt-6 rounded-r-xl'>
-      <h1 className='text-white text-xl py-3 px-7'>Best Choice</h1>
+    <div className='card w-[3.4vw] border-zinc-200 border-2  mx-6 mt-6 rounded-full'>
+      <h1 className='text-zinc-600 text-xl py-3 px-5'>4</h1>
     </div>
     <div className="main flex justify-evenly">
       <div className="img w-[12vw] ml-12 mt-16 ">
